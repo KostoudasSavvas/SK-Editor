@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/GenerateGui/MainEditorWindow.java=UTF-8
+encoding//src/convertToPdf/PDFGenerator.java=UTF-8
+encoding//src/event/EventHandlerEditor.java=UTF-8
+encoding//src/event/EventHandlerNewFile.java=UTF-8
+encoding//src/event/MainEditorWindowHelper.java=UTF-8
+encoding//src/event/eventHandlerTxt.java=UTF-8
+encoding//src/guiNewFileWindow/GeneralNewWindow.java=UTF-8
+encoding//src/odfLibreOfficeTemplate/OdfTemplateEventHandler.java=UTF-8
+encoding//src/odfLibreOfficeTemplate/eventHandlerOdf.java=UTF-8

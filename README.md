@@ -13,7 +13,7 @@ Use the SK Editor jar of the `SK Editor Runnable` folder. Specifically:
 - `Video Tutorial` is provided and it is located [here](https://github.com/KostoudasSavvas/Insight/blob/master/Insight/Report%20and%20Video%20Tutorial/Insight%20Demo.mp4).
 
 ## Licence
-See the [copyright](https://github.com/KostoudasSavvas/Insight/blob/master/Insight/copyright.md) file.
+See the [copyright](https://github.com/KostoudasSavvas/SK-Editor/blob/master/LICENSE) file.
 
 ## Credits and history
 ### v.01 [2020-06]
